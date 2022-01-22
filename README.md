@@ -1,0 +1,1 @@
+This repository contains shared administration files for ULOSINO repositories. When these files change, they will be changed on all repositories, unless they have a specific version of a file using the same name. [Learn more...](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
