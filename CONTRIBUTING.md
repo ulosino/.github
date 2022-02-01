@@ -4,7 +4,7 @@ Firstly, a big thanks to you for setting aside your time to contribute! Your con
 
 With ULOSINO, getting an open source OS onto the global stage is very easy. To contribute, you will need a GitHub account. Read on for comprehensive details on how to contribute to both Database Content and the Source Code.
 
-Remember that all contributions are bound by the [Code of Conduct](https://github.com/ulosino/.github/blob/main/CODE_OF_CONDUCT.md). This applies to ULOSINO, ULOSINO Guides, and ULOSINO Matches.
+Remember that all contributions are bound by the [Contribution Code of Conduct](https://github.com/ulosino/.github/blob/main/CODE_OF_CONDUCT.md). This applies to ULOSINO, ULOSINO Guides, and ULOSINO Matches.
 
 ## Issues and bugs
 
@@ -20,7 +20,24 @@ If you do need to create your own issue to report a bug, be sure to include the 
 
 For all issues, remember to use labels and try to be as descriptive as possible (even information you might dismiss). Most of our issues are similar across all our repositories.
 
----
+## Submitting an operating system
+
+If an OS is not available on ULOSINO, you can make a contribution. Unlike other places, we don't require you wait, or learn multiple programming languages, or spend hundreds (perhaps in a foreign currency) to get something a presence on our platform.
+
+All OSs on ULOSINO must follow the criteria below:
+
+- It must use open-source licencing;
+- It must have an upfront monetary cost, or be free (it can't use 'open-core/freemium' model);
+- It must have project and community infrastructure (website, etc).
+
+> **Note:** Projects that don't follow relevant privacy, copyright, and export legislation, or are out of line with our Contribution Code of Conduct, will be excluded from ULOSINO.
+
+When you're writing an OS page, please note the following:
+
+- 'Flavours' that target different market segments are considered different OSs. For example "Pin Oak Desktop" and "Pin Oak Server" would have different OS pages. However "Pin Oak GNOME" and "Pin Oak Plasma" would not;
+- If applicable, enter the version of the OS that you are writing on. We review OSs and, if the description and metadata still apply, update the version;
+- For operating systems which are not versioned or use a "rolling release" system, the version, and;
+- To ensure consistency, we prefer you write in Commonwealth (British) English and minimise usage of styled (bold, italic, etc) text. Write within the Contribution Code of Conduct.
 
 ## Making a contribution
 
@@ -36,7 +53,7 @@ When you open a file, it'll show something like this:
 ---
 # Required metadata
 title: "Pin Oak (Demo)"
-summary: "Distribution page demo"
+summary: "Operating system page demo"
 date: "2021-10-21"
 version: ""
 
@@ -51,8 +68,8 @@ size: ""
 browser: ""
 licence: "MIT"
 origin: ""
-website: "ulosino.com"
-repository: "github.com/ulosino/ulosino"
+website: "https://ulosino.com"
+repository: "https://github.com/ulosino/ulosino"
 ---
 
 Pin Oak is a ...
@@ -62,7 +79,7 @@ We want to edit this file.
 
 - Select the pencil button to open the edit view;
 - Make your edits, and;
-- Then go to the bottom of the page and select the green 'Commit Changes' button. That's it.
+- Then go to the bottom of the page and select the 'Commit Changes' button. That's it.
 
 > **Note:** For ULOSINO, empty metadata categories in the 'other' section will be hidden. View the demo page (code above) to see this in action.
 
