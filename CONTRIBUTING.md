@@ -4,7 +4,7 @@ Firstly, a big thanks to you for setting aside your time to contribute! Your con
 
 With ULOSINO, getting an open source OS onto the global stage is very easy. To contribute, you will need a GitHub account. Read on for comprehensive details on how to contribute to both Database Content and the Source Code.
 
-Remember that all contributions are bound by the [Contribution Code of Conduct](https://github.com/ulosino/.github/blob/main/CODE_OF_CONDUCT.md). This applies to ULOSINO, ULOSINO Guides, and ULOSINO Matches.
+Remember that all contributions are bound by the [Code of Conduct](https://github.com/ulosino/.github/blob/main/CODE_OF_CONDUCT.md). This applies to ULOSINO, ULOSINO Guides, and ULOSINO Matches.
 
 ## Issues and bugs
 
@@ -37,7 +37,7 @@ When you're writing an OS page, please note the following:
 - 'Flavours' that target different market segments are considered different OSs. For example "Pin Oak Desktop" and "Pin Oak Server" would have different OS pages. However "Pin Oak GNOME" and "Pin Oak Plasma" would not;
 - If applicable, enter the version of the OS that you are writing on. We review OSs and, if the description and metadata still apply, update the version;
 - For operating systems which are not versioned or use a "rolling release" system, the version, and;
-- To ensure consistency, we prefer you write in Commonwealth (British) English and minimise usage of styled (bold, italic, etc) text. Write within the Contribution Code of Conduct.
+- To ensure consistency, we prefer you write in Commonwealth (British) English and minimise usage of styled (bold, italic, etc) text. Write within the Code of Conduct.
 
 ## Making a contribution
 
@@ -137,4 +137,4 @@ Note these guidelines when making pull requests:
 - Make your commit comment as descriptive as possible. Include as much information as you can. Explain anything that the file differentials won’t make apparent.
 - Make sure the relevant labels are used. In most cases this means applying a contribution 'area' (with 'Source', 'Database Content', or 'Backend') and a 'type' (like 'Bug').
 
-Last revised 27th January, 2022.
+Last revised 1st February, 2022.
