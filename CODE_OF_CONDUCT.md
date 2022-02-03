@@ -45,7 +45,7 @@ You should make your contributions as accessible as possible. If your contributi
 
 Anyone can report infringements of this Code of Conduct by contacting ULOSINO. A report should include the information that identifies the offending Community Member (for example, username), infringing behaviour (for example, harassment), a screenshot of the infringement, and, if available, where the infringment can be located.
 
-# Punitive Actions
+## Punitive Actions
 
 ULOSINO will firstly is always to ensure the safety and wellbeing of all those involved. In the ideal case, an attempt to stop and prevent the violation behavior would be made before any punitive action is decided.
 
