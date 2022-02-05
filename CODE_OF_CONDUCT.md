@@ -51,12 +51,12 @@ ULOSINO will firstly always to ensure the safety and wellbeing of all those invo
 
 However, if punitive action is warranted, ULOSINO may:
 
-- Issue the offender a temporary ban from selected community spaces, or;
-- Issue the offender a temporary ban from all community spaces.
+- Issue the offender a temporary ban from selected Community Spaces, or;
+- Issue the offender a temporary ban from all Community Spaces.
 
 Community Members who are issued a temporary ban reserve the right to appeal. Upon contacting ULOSINO, we'll work with the affected Community Member to reach a resolution.
 
-In severe cases, we may issue the offender a permanent ban from all community spaces, as the first action and without notice. This action may only be lifted by our team in the presence of legal action.
+In severe cases, we may issue the offender a permanent ban from all Community Spaces, as the first action and without notice. This action may only be lifted by our team in the presence of legal action.
 
 ---
 
